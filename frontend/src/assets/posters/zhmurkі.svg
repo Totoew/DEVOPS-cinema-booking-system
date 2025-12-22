@@ -1,0 +1,13 @@
+<svg width="300" height="450" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad4" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#e94560;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#f16e4d;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="300" height="450" fill="url(#grad4)"/>
+  <text x="150" y="200" font-family="Arial, sans-serif" font-size="36" font-weight="bold" text-anchor="middle" fill="white">ЖМУРКИ</text>
+  <text x="150" y="280" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#ecf0f1">Комедия</text>
+  <text x="150" y="300" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#ecf0f1">111 мин • 18+</text>
+  <text x="150" y="350" font-family="Arial, sans-serif" font-size="20" text-anchor="middle" fill="white">😎</text>
+</svg>

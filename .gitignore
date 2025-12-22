@@ -1,0 +1,20 @@
+# Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.angular/
+
+# Backend
+backend/node_modules/
+backend/.env
+backend/*.log
+
+# Docker
+*.tar
+*.tar.gz
+
+# Системные
+.DS_Store
+Thumbs.db
+.env
+.env.local
+.env.production

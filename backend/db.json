@@ -1,0 +1,1619 @@
+{
+  "users": [
+    {
+      "email": "test@example.com",
+      "passwordHash": "test12345"
+    },
+    {
+      "email": "vpolyakov66@gmail.com",
+      "passwordHash": "no000000!"
+    },
+    {
+      "email": "vpolyakov66@gmail.com",
+      "passwordHash": "no000000!"
+    },
+    {
+      "email": "vpolyakov66@gmail.com",
+      "passwordHash": "no000000!"
+    },
+    {
+      "email": "totoevdanil57@gmail.com",
+      "passwordHash": "parol"
+    },
+    {
+      "email": "r",
+      "passwordHash": "r"
+    },
+    {
+      "email": "g",
+      "passwordHash": "r"
+    },
+    {
+      "email": "test@cinema.com",
+      "passwordHash": "password123"
+    },
+    {
+      "email": "x",
+      "passwordHash": "x"
+    },
+    {
+      "email": "second",
+      "passwordHash": "second"
+    },
+    {
+      "email": "third",
+      "passwordHash": "third"
+    },
+    {
+      "email": "fourth",
+      "passwordHash": "fourth"
+    },
+    {
+      "email": "fifth",
+      "passwordHash": "fifth"
+    },
+    {
+      "email": "failsixth",
+      "passwordHash": "failsixth"
+    },
+    {
+      "email": "lasttry",
+      "passwordHash": "lasttry"
+    },
+    {
+      "email": "petuh",
+      "passwordHash": "petuh"
+    },
+    {
+      "email": "t",
+      "passwordHash": "t"
+    },
+    {
+      "email": "testuser",
+      "passwordHash": "testuser"
+    },
+    {
+      "email": "rrr",
+      "passwordHash": "44445"
+    },
+    {
+      "email": "fgf",
+      "passwordHash": "fgf"
+    }
+  ],
+  "movies": [
+    {
+      "id": "m1",
+      "title": "Тихое место",
+      "durationMin": 97,
+      "rating": "18+",
+      "description": "Триллер",
+      "genre": "Триллер",
+      "poster": "assets/posters/quiet-place.svg"
+    },
+    {
+      "id": "m2",
+      "title": "Космическая одиссея",
+      "durationMin": 149,
+      "rating": "12+",
+      "description": "Фантастика",
+      "genre": "Фантастика",
+      "poster": "assets/posters/space-odyssey.svg"
+    },
+    {
+      "id": "m3",
+      "title": "Тихое место 2",
+      "durationMin": 122,
+      "rating": "16+",
+      "description": "Триллер",
+      "genre": "Триллер",
+      "poster": "assets/posters/quiet-place-2.svg"
+    },
+    {
+      "id": "m4",
+      "title": "Жмурки",
+      "durationMin": 111,
+      "rating": "18+",
+      "description": "Комедия",
+      "genre": "Комедия",
+      "poster": "assets/posters/zhmurkі.svg"
+    },
+    {
+      "id": "m5",
+      "title": "Мстители: Финал",
+      "durationMin": 181,
+      "rating": "12+",
+      "description": "Боевик",
+      "genre": "Боевик",
+      "poster": "assets/posters/avengers-endgame.svg"
+    },
+    {
+      "id": "m6",
+      "title": "Интерстеллар",
+      "durationMin": 169,
+      "rating": "12+",
+      "description": "Фантастика",
+      "genre": "Фантастика",
+      "poster": "assets/posters/interstellar.svg"
+    },
+    {
+      "id": "m7",
+      "title": "Джокер",
+      "durationMin": 122,
+      "rating": "18+",
+      "description": "Драма",
+      "genre": "Драма",
+      "poster": "assets/posters/joker.svg"
+    },
+    {
+      "id": "m8",
+      "title": "Дюна",
+      "durationMin": 155,
+      "rating": "12+",
+      "description": "Фантастика",
+      "genre": "Фантастика",
+      "poster": "assets/posters/dune.svg"
+    },
+    {
+      "id": "m9",
+      "title": "Однажды в Голливуде",
+      "durationMin": 161,
+      "rating": "18+",
+      "description": "Драма",
+      "genre": "Драма",
+      "poster": "assets/posters/once-upon-hollywood.svg"
+    },
+    {
+      "id": "m10",
+      "title": "Паразиты",
+      "durationMin": 132,
+      "rating": "18+",
+      "description": "Триллер",
+      "genre": "Триллер",
+      "poster": "assets/posters/parasite.svg"
+    }
+  ],
+  "shows": [
+    {
+      "id": "s1",
+      "movieId": "m1",
+      "startUtc": "2025-09-24T16:00:00Z",
+      "hall": "Зал 1",
+      "price": 350
+    },
+    {
+      "id": "s2",
+      "movieId": "m1",
+      "startUtc": "2025-09-24T19:00:00Z",
+      "hall": "Зал 1",
+      "price": 450
+    },
+    {
+      "id": "s3",
+      "movieId": "m1",
+      "startUtc": "2025-09-25T21:30:00Z",
+      "hall": "Зал 2",
+      "price": 500
+    },
+    {
+      "id": "s4",
+      "movieId": "m1",
+      "startUtc": "2025-09-26T14:00:00Z",
+      "hall": "Зал 3",
+      "price": 320
+    },
+    {
+      "id": "s5",
+      "movieId": "m1",
+      "startUtc": "2025-09-27T20:15:00Z",
+      "hall": "Зал 1",
+      "price": 480
+    },
+    {
+      "id": "s6",
+      "movieId": "m2",
+      "startUtc": "2025-09-24T18:00:00Z",
+      "hall": "Зал 2",
+      "price": 400
+    },
+    {
+      "id": "s7",
+      "movieId": "m2",
+      "startUtc": "2025-09-25T15:00:00Z",
+      "hall": "Зал 3",
+      "price": 380
+    },
+    {
+      "id": "s8",
+      "movieId": "m2",
+      "startUtc": "2025-09-26T21:45:00Z",
+      "hall": "Зал 1",
+      "price": 520
+    },
+    {
+      "id": "s9",
+      "movieId": "m3",
+      "startUtc": "2025-09-24T20:00:00Z",
+      "hall": "Зал 1",
+      "price": 420
+    },
+    {
+      "id": "s10",
+      "movieId": "m3",
+      "startUtc": "2025-09-25T17:30:00Z",
+      "hall": "Зал 2",
+      "price": 400
+    },
+    {
+      "id": "s11",
+      "movieId": "m3",
+      "startUtc": "2025-09-27T19:15:00Z",
+      "hall": "Зал 3",
+      "price": 450
+    },
+    {
+      "id": "s12",
+      "movieId": "m4",
+      "startUtc": "2025-09-24T17:30:00Z",
+      "hall": "Зал 3",
+      "price": 300
+    },
+    {
+      "id": "s13",
+      "movieId": "m4",
+      "startUtc": "2025-09-25T22:00:00Z",
+      "hall": "Зал 1",
+      "price": 350
+    },
+    {
+      "id": "s14",
+      "movieId": "m4",
+      "startUtc": "2025-09-26T15:45:00Z",
+      "hall": "Зал 2",
+      "price": 280
+    },
+    {
+      "id": "s15",
+      "movieId": "m5",
+      "startUtc": "2025-09-25T19:00:00Z",
+      "hall": "Зал 1",
+      "price": 550
+    },
+    {
+      "id": "s16",
+      "movieId": "m5",
+      "startUtc": "2025-09-26T16:30:00Z",
+      "hall": "Зал 2",
+      "price": 550
+    },
+    {
+      "id": "s17",
+      "movieId": "m5",
+      "startUtc": "2025-09-27T21:00:00Z",
+      "hall": "Зал 3",
+      "price": 580
+    },
+    {
+      "id": "s18",
+      "movieId": "m6",
+      "startUtc": "2025-09-25T20:30:00Z",
+      "hall": "Зал 3",
+      "price": 480
+    },
+    {
+      "id": "s19",
+      "movieId": "m6",
+      "startUtc": "2025-09-26T18:45:00Z",
+      "hall": "Зал 1",
+      "price": 500
+    },
+    {
+      "id": "s20",
+      "movieId": "m6",
+      "startUtc": "2025-09-27T16:00:00Z",
+      "hall": "Зал 2",
+      "price": 460
+    },
+    {
+      "id": "s21",
+      "movieId": "m7",
+      "startUtc": "2025-09-24T22:00:00Z",
+      "hall": "Зал 2",
+      "price": 460
+    },
+    {
+      "id": "s22",
+      "movieId": "m7",
+      "startUtc": "2025-09-25T19:45:00Z",
+      "hall": "Зал 1",
+      "price": 480
+    },
+    {
+      "id": "s23",
+      "movieId": "m7",
+      "startUtc": "2025-09-27T22:30:00Z",
+      "hall": "Зал 3",
+      "price": 520
+    },
+    {
+      "id": "s24",
+      "movieId": "m8",
+      "startUtc": "2025-09-26T18:00:00Z",
+      "hall": "Зал 1",
+      "price": 520
+    },
+    {
+      "id": "s25",
+      "movieId": "m8",
+      "startUtc": "2025-09-27T20:45:00Z",
+      "hall": "Зал 2",
+      "price": 540
+    },
+    {
+      "id": "s26",
+      "movieId": "m8",
+      "startUtc": "2025-09-28T17:15:00Z",
+      "hall": "Зал 3",
+      "price": 500
+    },
+    {
+      "id": "s27",
+      "movieId": "m9",
+      "startUtc": "2025-09-25T22:30:00Z",
+      "hall": "Зал 2",
+      "price": 490
+    },
+    {
+      "id": "s28",
+      "movieId": "m9",
+      "startUtc": "2025-09-26T19:30:00Z",
+      "hall": "Зал 3",
+      "price": 510
+    },
+    {
+      "id": "s29",
+      "movieId": "m9",
+      "startUtc": "2025-09-28T21:15:00Z",
+      "hall": "Зал 1",
+      "price": 530
+    },
+    {
+      "id": "s30",
+      "movieId": "m10",
+      "startUtc": "2025-09-26T20:00:00Z",
+      "hall": "Зал 3",
+      "price": 470
+    },
+    {
+      "id": "s31",
+      "movieId": "m10",
+      "startUtc": "2025-09-27T18:30:00Z",
+      "hall": "Зал 1",
+      "price": 490
+    },
+    {
+      "id": "s32",
+      "movieId": "m10",
+      "startUtc": "2025-09-28T22:00:00Z",
+      "hall": "Зал 2",
+      "price": 520
+    }
+  ],
+  "seats": [
+    {
+      "showId": "s1",
+      "seatNumber": 1,
+      "isBooked": true
+    },
+    {
+      "showId": "s1",
+      "seatNumber": 2,
+      "isBooked": true
+    },
+    {
+      "showId": "s1",
+      "seatNumber": 3,
+      "isBooked": false
+    },
+    {
+      "showId": "s1",
+      "seatNumber": 4,
+      "isBooked": true
+    },
+    {
+      "showId": "s1",
+      "seatNumber": 5,
+      "isBooked": true
+    },
+    {
+      "showId": "s1",
+      "seatNumber": 6,
+      "isBooked": false
+    },
+    {
+      "showId": "s1",
+      "seatNumber": 7,
+      "isBooked": false
+    },
+    {
+      "showId": "s1",
+      "seatNumber": 8,
+      "isBooked": false
+    },
+    {
+      "showId": "s1",
+      "seatNumber": 9,
+      "isBooked": true
+    },
+    {
+      "showId": "s1",
+      "seatNumber": 10,
+      "isBooked": false
+    },
+    {
+      "showId": "s1",
+      "seatNumber": 11,
+      "isBooked": true
+    },
+    {
+      "showId": "s1",
+      "seatNumber": 12,
+      "isBooked": true
+    },
+    {
+      "showId": "s1",
+      "seatNumber": 13,
+      "isBooked": true
+    },
+    {
+      "showId": "s1",
+      "seatNumber": 14,
+      "isBooked": false
+    },
+    {
+      "showId": "s1",
+      "seatNumber": 15,
+      "isBooked": false
+    },
+    {
+      "showId": "s1",
+      "seatNumber": 16,
+      "isBooked": false
+    },
+    {
+      "showId": "s1",
+      "seatNumber": 17,
+      "isBooked": false
+    },
+    {
+      "showId": "s1",
+      "seatNumber": 18,
+      "isBooked": false
+    },
+    {
+      "showId": "s1",
+      "seatNumber": 19,
+      "isBooked": true
+    },
+    {
+      "showId": "s1",
+      "seatNumber": 20,
+      "isBooked": false
+    },
+    {
+      "showId": "s2",
+      "seatNumber": 1,
+      "isBooked": false
+    },
+    {
+      "showId": "s2",
+      "seatNumber": 2,
+      "isBooked": true
+    },
+    {
+      "showId": "s2",
+      "seatNumber": 3,
+      "isBooked": false
+    },
+    {
+      "showId": "s2",
+      "seatNumber": 4,
+      "isBooked": false
+    },
+    {
+      "showId": "s2",
+      "seatNumber": 5,
+      "isBooked": false
+    },
+    {
+      "showId": "s2",
+      "seatNumber": 6,
+      "isBooked": true
+    },
+    {
+      "showId": "s2",
+      "seatNumber": 7,
+      "isBooked": false
+    },
+    {
+      "showId": "s2",
+      "seatNumber": 8,
+      "isBooked": false
+    },
+    {
+      "showId": "s2",
+      "seatNumber": 9,
+      "isBooked": false
+    },
+    {
+      "showId": "s2",
+      "seatNumber": 10,
+      "isBooked": false
+    },
+    {
+      "showId": "s2",
+      "seatNumber": 11,
+      "isBooked": false
+    },
+    {
+      "showId": "s2",
+      "seatNumber": 12,
+      "isBooked": false
+    },
+    {
+      "showId": "s2",
+      "seatNumber": 13,
+      "isBooked": false
+    },
+    {
+      "showId": "s2",
+      "seatNumber": 14,
+      "isBooked": false
+    },
+    {
+      "showId": "s2",
+      "seatNumber": 15,
+      "isBooked": false
+    },
+    {
+      "showId": "s2",
+      "seatNumber": 16,
+      "isBooked": false
+    },
+    {
+      "showId": "s2",
+      "seatNumber": 17,
+      "isBooked": false
+    },
+    {
+      "showId": "s2",
+      "seatNumber": 18,
+      "isBooked": false
+    },
+    {
+      "showId": "s2",
+      "seatNumber": 19,
+      "isBooked": false
+    },
+    {
+      "showId": "s2",
+      "seatNumber": 20,
+      "isBooked": false
+    },
+    {
+      "showId": "s3",
+      "seatNumber": 1,
+      "isBooked": true
+    },
+    {
+      "showId": "s3",
+      "seatNumber": 2,
+      "isBooked": true
+    },
+    {
+      "showId": "s3",
+      "seatNumber": 3,
+      "isBooked": true
+    },
+    {
+      "showId": "s3",
+      "seatNumber": 4,
+      "isBooked": false
+    },
+    {
+      "showId": "s3",
+      "seatNumber": 5,
+      "isBooked": false
+    },
+    {
+      "showId": "s3",
+      "seatNumber": 6,
+      "isBooked": false
+    },
+    {
+      "showId": "s3",
+      "seatNumber": 7,
+      "isBooked": false
+    },
+    {
+      "showId": "s3",
+      "seatNumber": 8,
+      "isBooked": false
+    },
+    {
+      "showId": "s3",
+      "seatNumber": 9,
+      "isBooked": false
+    },
+    {
+      "showId": "s3",
+      "seatNumber": 10,
+      "isBooked": false
+    },
+    {
+      "showId": "s3",
+      "seatNumber": 11,
+      "isBooked": false
+    },
+    {
+      "showId": "s3",
+      "seatNumber": 12,
+      "isBooked": false
+    },
+    {
+      "showId": "s3",
+      "seatNumber": 13,
+      "isBooked": false
+    },
+    {
+      "showId": "s3",
+      "seatNumber": 14,
+      "isBooked": false
+    },
+    {
+      "showId": "s3",
+      "seatNumber": 15,
+      "isBooked": false
+    },
+    {
+      "showId": "s3",
+      "seatNumber": 16,
+      "isBooked": false
+    },
+    {
+      "showId": "s3",
+      "seatNumber": 17,
+      "isBooked": false
+    },
+    {
+      "showId": "s3",
+      "seatNumber": 18,
+      "isBooked": false
+    },
+    {
+      "showId": "s3",
+      "seatNumber": 19,
+      "isBooked": false
+    },
+    {
+      "showId": "s3",
+      "seatNumber": 20,
+      "isBooked": false
+    },
+    {
+      "showId": "s4",
+      "seatNumber": 1,
+      "isBooked": true
+    },
+    {
+      "showId": "s4",
+      "seatNumber": 2,
+      "isBooked": true
+    },
+    {
+      "showId": "s4",
+      "seatNumber": 3,
+      "isBooked": false
+    },
+    {
+      "showId": "s4",
+      "seatNumber": 4,
+      "isBooked": false
+    },
+    {
+      "showId": "s4",
+      "seatNumber": 5,
+      "isBooked": false
+    },
+    {
+      "showId": "s4",
+      "seatNumber": 6,
+      "isBooked": false
+    },
+    {
+      "showId": "s4",
+      "seatNumber": 7,
+      "isBooked": false
+    },
+    {
+      "showId": "s4",
+      "seatNumber": 8,
+      "isBooked": false
+    },
+    {
+      "showId": "s4",
+      "seatNumber": 9,
+      "isBooked": false
+    },
+    {
+      "showId": "s4",
+      "seatNumber": 10,
+      "isBooked": false
+    },
+    {
+      "showId": "s4",
+      "seatNumber": 11,
+      "isBooked": false
+    },
+    {
+      "showId": "s4",
+      "seatNumber": 12,
+      "isBooked": false
+    },
+    {
+      "showId": "s4",
+      "seatNumber": 13,
+      "isBooked": false
+    },
+    {
+      "showId": "s4",
+      "seatNumber": 14,
+      "isBooked": false
+    },
+    {
+      "showId": "s4",
+      "seatNumber": 15,
+      "isBooked": false
+    },
+    {
+      "showId": "s4",
+      "seatNumber": 16,
+      "isBooked": false
+    },
+    {
+      "showId": "s4",
+      "seatNumber": 17,
+      "isBooked": false
+    },
+    {
+      "showId": "s4",
+      "seatNumber": 18,
+      "isBooked": false
+    },
+    {
+      "showId": "s4",
+      "seatNumber": 19,
+      "isBooked": false
+    },
+    {
+      "showId": "s4",
+      "seatNumber": 20,
+      "isBooked": false
+    }
+  ],
+  "orders": [
+    {
+      "id": "order1",
+      "userEmail": "test@example.com",
+      "showId": "s1",
+      "seats": [
+        1,
+        2
+      ],
+      "amount": 700,
+      "createdUtc": "2025-09-24T10:00:00Z",
+      "status": "confirmed"
+    },
+    {
+      "id": "order2",
+      "userEmail": "test@example.com",
+      "showId": "s3",
+      "seats": [
+        1,
+        2,
+        3
+      ],
+      "amount": 1500,
+      "createdUtc": "2025-09-24T11:00:00Z",
+      "status": "confirmed"
+    },
+    {
+      "id": "Yl9P94GKFCFRc1m3nWB06",
+      "userEmail": "vpolyakov66@gmail.com",
+      "showId": "s4",
+      "seats": [
+        1,
+        2
+      ],
+      "amount": 800,
+      "createdUtc": "2025-09-24T13:05:51.084Z",
+      "status": "confirmed"
+    },
+    {
+      "id": "kR3WZiOqa1veR4uruHhYB",
+      "userEmail": "vpolyakov66@gmail.com",
+      "showId": "s1",
+      "seats": [
+        19,
+        9
+      ],
+      "amount": 700,
+      "createdUtc": "2025-09-24T13:10:42.842Z",
+      "status": "confirmed"
+    },
+    {
+      "id": "iunEVYuVDhd-IZDtZcc38",
+      "userEmail": "vpolyakov66@gmail.com",
+      "showId": "s1",
+      "seats": [
+        4,
+        12,
+        11
+      ],
+      "amount": 1050,
+      "createdUtc": "2025-09-24T13:13:52.549Z",
+      "status": "confirmed"
+    },
+    {
+      "id": "AJvozx07N9zE1KN5Zd5it",
+      "userEmail": "vpolyakov66@gmail.com",
+      "showId": "s12",
+      "seats": [
+        34,
+        24
+      ],
+      "amount": 600,
+      "createdUtc": "2025-09-24T13:15:42.119Z",
+      "status": "confirmed"
+    },
+    {
+      "id": "Kcg7_6jQeIGqsevT2vyuA",
+      "userEmail": "vpolyakov66@gmail.com",
+      "showId": "s26",
+      "seats": [
+        66,
+        67
+      ],
+      "amount": 1000,
+      "createdUtc": "2025-09-24T13:32:04.514Z",
+      "status": "confirmed"
+    },
+    {
+      "id": "H10NnwPLW53SAuHE-w00r",
+      "userEmail": "vpolyakov66@gmail.com",
+      "showId": "s8",
+      "seats": [
+        35,
+        36
+      ],
+      "amount": 1040,
+      "createdUtc": "2025-09-24T13:39:22.377Z",
+      "status": "confirmed"
+    },
+    {
+      "id": "rzdULDv2mmvTyJ_RbRILO",
+      "userEmail": "vpolyakov66@gmail.com",
+      "showId": "s8",
+      "seats": [
+        56,
+        57
+      ],
+      "amount": 1040,
+      "createdUtc": "2025-09-24T13:39:32.362Z",
+      "status": "confirmed"
+    },
+    {
+      "id": "0dhrmWbFJYKDVQ4ICx7DN",
+      "userEmail": "vpolyakov66@gmail.com",
+      "showId": "s11",
+      "seats": [
+        47
+      ],
+      "amount": 450,
+      "createdUtc": "2025-09-24T13:41:02.127Z",
+      "status": "confirmed"
+    },
+    {
+      "id": "MppIsHYECEJYGB35-Pg14",
+      "userEmail": "vpolyakov66@gmail.com",
+      "showId": "s24",
+      "seats": [
+        47,
+        48
+      ],
+      "amount": 1040,
+      "createdUtc": "2025-09-24T13:42:36.134Z",
+      "status": "confirmed"
+    },
+    {
+      "id": "4eofBDLJstVflMHKS2eUy",
+      "userEmail": "vpolyakov66@gmail.com",
+      "showId": "s1",
+      "seats": [
+        24,
+        25,
+        26
+      ],
+      "amount": 1050,
+      "createdUtc": "2025-09-24T13:54:19.284Z",
+      "status": "confirmed"
+    },
+    {
+      "id": "fg-IDmB509LlZ3c5MI69S",
+      "userEmail": "vpolyakov66@gmail.com",
+      "showId": "s1",
+      "seats": [
+        33,
+        34,
+        35
+      ],
+      "amount": 840,
+      "createdUtc": "2025-09-24T13:54:30.620Z",
+      "status": "confirmed"
+    },
+    {
+      "id": "HGz9R-3kOPavfaMOEjRNY",
+      "userEmail": "vpolyakov66@gmail.com",
+      "showId": "s13",
+      "seats": [
+        24,
+        25,
+        26
+      ],
+      "amount": 1050,
+      "createdUtc": "2025-09-24T14:09:28.669Z",
+      "status": "confirmed"
+    },
+    {
+      "id": "ftC8f8tA1JDV612dZlmq4",
+      "userEmail": "g",
+      "showId": "s8",
+      "seats": [
+        28,
+        38,
+        39,
+        30,
+        35,
+        34,
+        24,
+        25,
+        26,
+        36,
+        37
+      ],
+      "amount": 4576,
+      "createdUtc": "2025-09-25T05:58:47.280Z",
+      "status": "confirmed"
+    },
+    {
+      "id": "kLCj1cJRBduRktkHJ1L6d",
+      "userEmail": "x",
+      "showId": "s15",
+      "seats": [
+        76,
+        58,
+        48,
+        38,
+        37,
+        36,
+        26,
+        27,
+        28,
+        39,
+        40,
+        50,
+        60,
+        59
+      ],
+      "amount": 7700,
+      "createdUtc": "2025-09-26T11:49:47.166Z",
+      "status": "confirmed"
+    },
+    {
+      "id": "b-kvlGmmCpw25_6ojfTm4",
+      "userEmail": "x",
+      "showId": "s15",
+      "seats": [
+        27,
+        28,
+        25,
+        37,
+        47,
+        33,
+        56,
+        55,
+        54,
+        59,
+        30
+      ],
+      "amount": 6050,
+      "createdUtc": "2025-09-26T12:21:37.908Z",
+      "status": "confirmed"
+    },
+    {
+      "id": "nU0LEKgHwIKTZn-Ukk0Mu",
+      "userEmail": "x",
+      "showId": "s15",
+      "seats": [
+        55,
+        56
+      ],
+      "amount": 880,
+      "createdUtc": "2025-09-26T12:33:38.124Z",
+      "status": "confirmed"
+    },
+    {
+      "id": "107tDilvwlWqZAiMQggMi",
+      "userEmail": "x",
+      "showId": "s15",
+      "seats": [
+        54,
+        64
+      ],
+      "amount": 1100,
+      "createdUtc": "2025-09-26T12:33:50.602Z",
+      "status": "confirmed"
+    },
+    {
+      "id": "2zbwfLw2oW-goU3M5bqRS",
+      "userEmail": "x",
+      "showId": "s6",
+      "seats": [
+        56,
+        55
+      ],
+      "amount": 640,
+      "createdUtc": "2025-09-26T14:00:04.073Z",
+      "status": "confirmed"
+    },
+    {
+      "id": "ZM9jWQU05UJeHMxMbwIGT",
+      "userEmail": "x",
+      "showId": "s6",
+      "seats": [
+        36,
+        26
+      ],
+      "amount": 800,
+      "createdUtc": "2025-09-26T14:00:26.730Z",
+      "status": "confirmed"
+    },
+    {
+      "id": "VQWElLbhAhXpNxEP-BS82",
+      "userEmail": "x",
+      "showId": "s6",
+      "seats": [
+        26,
+        25
+      ],
+      "amount": 640,
+      "createdUtc": "2025-09-26T14:00:55.315Z",
+      "status": "confirmed"
+    },
+    {
+      "id": "3Js9_asczOG9n-tNA_Q6D",
+      "userEmail": "x",
+      "showId": "s6",
+      "seats": [
+        26
+      ],
+      "amount": 0,
+      "createdUtc": "2025-09-26T14:06:59.245Z",
+      "status": "confirmed"
+    },
+    {
+      "id": "BwaQK73G2z9-90BMd5mVU",
+      "userEmail": "x",
+      "showId": "s1",
+      "seats": [
+        64
+      ],
+      "amount": 350,
+      "createdUtc": "2025-09-27T09:12:30.172Z",
+      "status": "confirmed"
+    },
+    {
+      "id": "6I4f4geMpyQUpHB0lDkqU",
+      "userEmail": "x",
+      "showId": "s1",
+      "seats": [
+        64
+      ],
+      "amount": 280,
+      "createdUtc": "2025-09-27T09:12:46.831Z",
+      "status": "confirmed"
+    },
+    {
+      "id": "OWCo1Fdj_Ub_8e6tiSUJD",
+      "userEmail": "x",
+      "showId": "s1",
+      "seats": [
+        64
+      ],
+      "amount": 175,
+      "createdUtc": "2025-09-27T09:13:05.997Z",
+      "status": "confirmed"
+    },
+    {
+      "id": "05LRau5zTYZYvnUDQzh-w",
+      "userEmail": "x",
+      "showId": "s1",
+      "seats": [
+        64
+      ],
+      "amount": 0,
+      "createdUtc": "2025-09-27T09:13:33.148Z",
+      "status": "confirmed"
+    },
+    {
+      "id": "VsffqX-khDNBDNTwVJwF4",
+      "userEmail": "x",
+      "showId": "s1",
+      "seats": [
+        65
+      ],
+      "amount": 0,
+      "createdUtc": "2025-09-27T09:19:00.068Z",
+      "status": "confirmed"
+    },
+    {
+      "id": "InU3PfJUXofJ5gAxEsK87",
+      "userEmail": "second",
+      "showId": "s1",
+      "seats": [
+        55
+      ],
+      "amount": 0,
+      "createdUtc": "2025-09-27T09:20:58.246Z",
+      "status": "confirmed"
+    },
+    {
+      "id": "sQhTjIUbDB7MJJbehKqA2",
+      "userEmail": "third",
+      "showId": "s4",
+      "seats": [
+        73
+      ],
+      "amount": 0,
+      "createdUtc": "2025-09-27T09:22:13.779Z",
+      "status": "confirmed"
+    },
+    {
+      "id": "QP17N4Pld4J9Nx6jzBSYb",
+      "userEmail": "fourth",
+      "showId": "s4",
+      "seats": [
+        58
+      ],
+      "amount": 0,
+      "createdUtc": "2025-09-27T09:23:39.811Z",
+      "status": "confirmed"
+    },
+    {
+      "id": "iaJaBlmm3cMfGrglyKK1p",
+      "userEmail": "fifth",
+      "showId": "s4",
+      "seats": [
+        46
+      ],
+      "amount": 0,
+      "createdUtc": "2025-09-27T09:25:05.127Z",
+      "status": "confirmed"
+    },
+    {
+      "id": "VFExreOplNtR1pbN9HE-P",
+      "userEmail": "failsixth",
+      "showId": "s4",
+      "seats": [
+        64
+      ],
+      "amount": 0,
+      "createdUtc": "2025-09-27T09:26:19.430Z",
+      "status": "confirmed"
+    },
+    {
+      "id": "HdUVGLN-cXL8AGXjQ6Alf",
+      "userEmail": "lasttry",
+      "showId": "s4",
+      "seats": [
+        74
+      ],
+      "amount": 0,
+      "createdUtc": "2025-09-27T09:27:50.408Z",
+      "status": "confirmed"
+    },
+    {
+      "id": "VDWUk-7LmeYiaaDhDNJMm",
+      "userEmail": "petuh",
+      "showId": "s3",
+      "seats": [
+        64,
+        76,
+        67
+      ],
+      "amount": 0,
+      "createdUtc": "2025-09-27T10:16:05.219Z",
+      "status": "confirmed"
+    },
+    {
+      "id": "iRVfz-kOjFd4FUKz1-3Lm",
+      "userEmail": "petuh",
+      "showId": "s3",
+      "seats": [
+        77
+      ],
+      "amount": 0,
+      "createdUtc": "2025-09-27T10:19:34.081Z",
+      "status": "confirmed"
+    },
+    {
+      "id": "sIFNZAX5lHruhiRfymJsJ",
+      "userEmail": "t",
+      "showId": "s24",
+      "seats": [
+        42
+      ],
+      "amount": 0,
+      "createdUtc": "2025-09-27T10:20:37.495Z",
+      "status": "confirmed"
+    },
+    {
+      "id": "0UcEYSX2_LgBNGlnXLqKc",
+      "userEmail": "t",
+      "showId": "s24",
+      "seats": [
+        51
+      ],
+      "amount": 416,
+      "createdUtc": "2025-09-27T10:21:21.480Z",
+      "status": "confirmed"
+    },
+    {
+      "id": "T18n29e4X3Ala5Qe0x2rH",
+      "userEmail": "testuser",
+      "showId": "s12",
+      "seats": [
+        34
+      ],
+      "amount": 0,
+      "createdUtc": "2025-09-27T10:43:19.848Z",
+      "status": "confirmed"
+    },
+    {
+      "id": "0mwd6cLVGNB_Paef5ZgGV",
+      "userEmail": "testuser",
+      "showId": "s12",
+      "seats": [
+        35,
+        36,
+        57
+      ],
+      "amount": 0,
+      "createdUtc": "2025-09-27T10:52:10.520Z",
+      "status": "confirmed"
+    },
+    {
+      "id": "ixdNPYmKYhIbxYXO1cLkZ",
+      "userEmail": "testuser",
+      "showId": "s14",
+      "seats": [
+        7
+      ],
+      "amount": 0,
+      "createdUtc": "2025-09-27T11:36:13.832Z",
+      "status": "confirmed"
+    },
+    {
+      "id": "d_xzOa0PfdEn95TcJ6wzh",
+      "userEmail": "testuser",
+      "showId": "s14",
+      "seats": [
+        66
+      ],
+      "amount": 280,
+      "createdUtc": "2025-09-27T11:39:34.928Z",
+      "status": "confirmed"
+    },
+    {
+      "id": "jyvol7TKq8-TS8mSrz488",
+      "userEmail": "x",
+      "showId": "s6",
+      "seats": [
+        18,
+        48
+      ],
+      "amount": 800,
+      "createdUtc": "2025-10-30T10:35:47.351Z",
+      "status": "confirmed"
+    },
+    {
+      "id": "XHA8VhWpdOcun4qG9wQB0",
+      "userEmail": "x",
+      "showId": "s6",
+      "seats": [
+        9
+      ],
+      "amount": 400,
+      "createdUtc": "2025-10-30T10:38:51.254Z",
+      "status": "confirmed"
+    },
+    {
+      "id": "CEE4pwW3OzZbE8fpn1p3K",
+      "userEmail": "x",
+      "showId": "s6",
+      "seats": [
+        15
+      ],
+      "amount": 400,
+      "createdUtc": "2025-10-30T11:44:15.584Z",
+      "status": "confirmed"
+    },
+    {
+      "id": "5LF5oo-IlYpf1_Js5pJ71",
+      "userEmail": "rrr",
+      "showId": "s15",
+      "seats": [
+        27
+      ],
+      "amount": 550,
+      "createdUtc": "2025-11-11T14:18:07.867Z",
+      "status": "confirmed"
+    },
+    {
+      "id": "Fsd5PEmrDVNVP0s-pKYVb",
+      "userEmail": "rrr",
+      "showId": "s19",
+      "seats": [
+        76
+      ],
+      "amount": 500,
+      "createdUtc": "2025-11-11T14:58:50.711Z",
+      "status": "confirmed"
+    },
+    {
+      "id": "Pwvcu3_zjnw45a-RBf4-y",
+      "userEmail": "x",
+      "showId": "s7",
+      "seats": [
+        68,
+        58,
+        57,
+        47,
+        46,
+        55,
+        56,
+        54,
+        44,
+        35
+      ],
+      "amount": 3800,
+      "createdUtc": "2025-11-11T15:08:45.349Z",
+      "status": "confirmed"
+    },
+    {
+      "id": "6Wxb_r-e7YCs6dE6EA66P",
+      "userEmail": "x",
+      "showId": "s16",
+      "seats": [
+        18
+      ],
+      "amount": 550,
+      "createdUtc": "2025-11-15T08:14:08.908Z",
+      "status": "confirmed"
+    },
+    {
+      "id": "HDL5ZWgHH6Q1WPJz4q1pG",
+      "userEmail": "fgf",
+      "showId": "s7",
+      "seats": [
+        17
+      ],
+      "amount": 380,
+      "createdUtc": "2025-11-15T08:23:05.748Z",
+      "status": "confirmed"
+    },
+    {
+      "id": "kSk2K7qsVytK1gdnPuiDk",
+      "userEmail": "fgf",
+      "showId": "s7",
+      "seats": [
+        26
+      ],
+      "amount": 380,
+      "createdUtc": "2025-11-15T08:36:10.858Z",
+      "status": "confirmed"
+    },
+    {
+      "id": "6zLrvzC6VQ78Pv1Pqfqji",
+      "userEmail": "fgf",
+      "showId": "s7",
+      "seats": [
+        80,
+        81
+      ],
+      "amount": 760,
+      "createdUtc": "2025-11-15T08:36:24.210Z",
+      "status": "confirmed"
+    },
+    {
+      "id": "4lCAT441lg_HZUwahG2Xl",
+      "userEmail": "fgf",
+      "showId": "s7",
+      "seats": [
+        48,
+        38,
+        28
+      ],
+      "amount": 1140,
+      "createdUtc": "2025-11-15T08:42:27.173Z",
+      "status": "confirmed"
+    },
+    {
+      "id": "qffG2cQJta-OLB2BTShQY",
+      "userEmail": "fgf",
+      "showId": "s7",
+      "seats": [
+        19
+      ],
+      "amount": 380,
+      "createdUtc": "2025-11-15T08:53:21.526Z",
+      "status": "confirmed"
+    },
+    {
+      "id": "0h97wPOzUSCZOtoVoZwSl",
+      "userEmail": "fgf",
+      "showId": "s25",
+      "seats": [
+        27
+      ],
+      "amount": 540,
+      "createdUtc": "2025-11-15T09:06:33.980Z",
+      "status": "confirmed"
+    },
+    {
+      "id": "p1OjOs2Ilr_Hgt6fZMlLd",
+      "userEmail": "fgf",
+      "showId": "s25",
+      "seats": [
+        17,
+        37
+      ],
+      "amount": 1080,
+      "createdUtc": "2025-11-15T10:52:24.527Z",
+      "status": "confirmed"
+    }
+  ],
+  "promoCodes": [
+    {
+      "id": "promo1",
+      "code": "STUDENT",
+      "discountPercent": 20,
+      "maxUses": 100,
+      "usedCount": 5,
+      "isActive": true,
+      "createdUtc": "2025-09-24T00:00:00Z"
+    },
+    {
+      "id": "promo2",
+      "code": "FRIDAY50",
+      "discountPercent": 50,
+      "maxUses": 50,
+      "usedCount": 0,
+      "isActive": true,
+      "createdUtc": "2025-09-24T00:00:00Z"
+    },
+    {
+      "id": "promo3",
+      "code": "FREE",
+      "discountPercent": 100,
+      "maxUses": 5,
+      "usedCount": 2,
+      "isActive": true,
+      "createdUtc": "2025-09-24T00:00:00Z"
+    },
+    {
+      "id": "_eBgcLSBDjh35zlIF0W4D",
+      "code": "MYTEST",
+      "discountPercent": 25,
+      "maxUses": 3,
+      "usedCount": 0,
+      "isActive": true,
+      "createdUtc": "2025-09-27T09:50:39.277Z"
+    },
+    {
+      "id": "-qeiBh5v-Uuqfwim8eTP-",
+      "code": "NEW10",
+      "discountPercent": 10,
+      "maxUses": 5,
+      "usedCount": 0,
+      "isActive": true,
+      "createdUtc": "2025-09-27T10:04:58.924Z"
+    },
+    {
+      "id": "F77MqLZyzvXIF4MDOYHsn",
+      "code": "DANIL",
+      "discountPercent": 10,
+      "maxUses": 3,
+      "usedCount": 0,
+      "isActive": true,
+      "createdUtc": "2025-09-27T10:11:00.289Z"
+    },
+    {
+      "id": "zE6x_Fd341YyJ5cG-4XxB",
+      "code": "NEW105",
+      "discountPercent": 105,
+      "maxUses": 5,
+      "usedCount": 0,
+      "isActive": true,
+      "createdUtc": "2025-09-27T11:50:29.279Z"
+    }
+  ],
+  "testCards": [
+    {
+      "id": "card1",
+      "number": "4111111111111111",
+      "balance": 147303.96499999997,
+      "status": "active",
+      "holderName": "VLADIMIR POLYAKOV",
+      "createdUtc": "2025-09-24T00:00:00Z"
+    },
+    {
+      "id": "card2",
+      "number": "4000000000000002",
+      "balance": 1500,
+      "status": "active",
+      "holderName": "TEST USER",
+      "createdUtc": "2025-09-24T00:00:00Z"
+    },
+    {
+      "id": "card3",
+      "number": "4000000000000010",
+      "balance": 0,
+      "status": "active",
+      "holderName": "POOR USER",
+      "createdUtc": "2025-09-24T00:00:00Z"
+    },
+    {
+      "id": "card4",
+      "number": "4000000000000028",
+      "balance": 5000,
+      "status": "blocked",
+      "holderName": "BLOCKED USER",
+      "createdUtc": "2025-09-24T00:00:00Z"
+    },
+    {
+      "id": "card5",
+      "number": "4000000000000036",
+      "balance": 3000,
+      "status": "expired",
+      "holderName": "EXPIRED USER",
+      "createdUtc": "2025-09-24T00:00:00Z"
+    },
+    {
+      "id": "card6",
+      "number": "123",
+      "balance": 1000,
+      "status": "active",
+      "holderName": "SHORT CARD",
+      "createdUtc": "2025-09-24T00:00:00Z"
+    },
+    {
+      "id": "27LajH9z8xwxvpvZskX6y",
+      "number": "4000000000000044",
+      "balance": 1999.9899999999998,
+      "status": "active",
+      "holderName": "TEST USER",
+      "createdUtc": "2025-09-27T10:41:58.848Z"
+    }
+  ]
+}

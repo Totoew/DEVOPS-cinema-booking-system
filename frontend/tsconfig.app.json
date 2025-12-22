@@ -1,0 +1,19 @@
+{
+    "extends": "./tsconfig.json",
+    "compilerOptions": {
+        "baseUrl": "src",
+        "paths": {
+            "@app/*": [
+                "app/*"
+            ]
+        },
+        "moduleResolution": "bundler",
+        "types": []
+    },
+    "files": [
+        "src/main.ts"
+    ],
+    "include": [
+        "src/**/*.ts"
+    ]
+}

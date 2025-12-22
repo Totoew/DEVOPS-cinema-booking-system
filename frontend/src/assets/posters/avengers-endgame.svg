@@ -1,0 +1,15 @@
+<svg width="300" height="450" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad5" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#c0392b;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e74c3c;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="300" height="450" fill="url(#grad5)"/>
+  <text x="150" y="180" font-family="Arial, sans-serif" font-size="22" font-weight="bold" text-anchor="middle" fill="white">МСТИТЕЛИ:</text>
+  <text x="150" y="220" font-family="Arial, sans-serif" font-size="22" font-weight="bold" text-anchor="middle" fill="white">ФИНАЛ</text>
+  <text x="150" y="280" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#ecf0f1">Боевик</text>
+  <text x="150" y="300" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#ecf0f1">181 мин • 12+</text>
+  <text x="150" y="350" font-family="Arial, sans-serif" font-size="24" text-anchor="middle" fill="#f39c12">⚡</text>
+  <text x="150" y="380" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#ecf0f1">MARVEL</text>
+</svg>

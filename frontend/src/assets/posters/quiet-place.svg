@@ -1,0 +1,13 @@
+<svg width="300" height="450" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#2c3e50;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#34495e;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="300" height="450" fill="url(#grad1)"/>
+  <text x="150" y="200" font-family="Arial, sans-serif" font-size="28" font-weight="bold" text-anchor="middle" fill="white">ТИХОЕ</text>
+  <text x="150" y="240" font-family="Arial, sans-serif" font-size="28" font-weight="bold" text-anchor="middle" fill="white">МЕСТО</text>
+  <text x="150" y="300" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#ecf0f1">Триллер</text>
+  <text x="150" y="320" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#ecf0f1">97 мин • 18+</text>
+</svg>

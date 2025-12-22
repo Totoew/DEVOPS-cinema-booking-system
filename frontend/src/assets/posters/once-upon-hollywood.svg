@@ -1,0 +1,15 @@
+<svg width="300" height="450" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad9" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8ad9d;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#ffc8a2;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="300" height="450" fill="url(#grad9)"/>
+  <text x="150" y="170" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#2c3e50">ОДНАЖДЫ</text>
+  <text x="150" y="200" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#2c3e50">В ГОЛЛИВУДЕ</text>
+  <text x="150" y="280" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#2c3e50">Драма</text>
+  <text x="150" y="300" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#2c3e50">161 мин • 18+</text>
+  <text x="150" y="350" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#e74c3c">1969</text>
+  <text x="150" y="380" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#2c3e50">TARANTINO</text>
+</svg>
